@@ -1,0 +1,544 @@
+body{
+  background-color: #48494B;
+  margin: 0;
+  text-align: center;
+  font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+
+#head{
+  color:white;
+}
+
+.intro-2{
+  /* background-color: #48494B; */
+  color: #FCF4A3;
+  padding-bottom: 30px;
+}
+
+.role{
+  margin: 0;
+  font-size: 30px;
+}
+
+a{
+  text-decoration: none;
+  color: #056674;
+}
+
+hr{
+  border-style: dotted;
+  border-top-style: none;
+  border-color:  #056674;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.intro-3{
+  width:50%;
+  height:360px;
+  background-color: #818380;
+  /* color: white; */
+  border-radius: 50px;
+  margin: 0px auto 0px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:10px;
+  position: relative;
+}
+
+.educ{
+  color: white;
+  width: 400px;
+  /* position: relative; */
+  /* bottom: 190px; */
+  margin-top: 10px;
+  margin-left: 50px;
+
+}
+
+.education{
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.education-1{
+  margin: 0;
+}
+
+.lic{
+  color: white;
+  width: 280px;
+  position: relative;
+  bottom: 430px;
+  left: 25px;
+  margin-left: 500px;
+  margin-top: 100px;
+}
+
+.licenses{
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.licenses-1{
+  margin: 0;
+}
+
+.skills{
+  color: white;
+  width: 300px;
+  position: relative;
+  bottom: 670px;
+  left: 25px;
+  margin-left: 800px;
+  margin-top:10px;
+  font-weight: bold;
+}
+
+
+.heading-1{
+  color: #FCF4A3;
+  margin: 0 auto 50px auto;
+  padding-top: 20px;
+  display: block;
+}
+
+
+.profile{
+  background-color: #818380;
+  color: white;
+  border-radius: 50px;
+  margin: 0px auto 50px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:20px;
+  text-align: left
+
+  /* margin: auto;
+  padding-top: 50;
+  padding-bottom: 20px; */
+}
+
+.accomplishment{
+  background-color: #818380;
+  color: white;
+  border-radius: 50px;
+  margin: 0px auto 50px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:20px;
+  text-align: left
+}
+
+.hr1{
+  margin-top: 0;
+  width: 0;
+  height: 0;
+  clear: both;
+  border: 1px solid transparent;
+  height: 0px;
+}
+
+.work-img{
+  float: left;
+  margin-top: 15px;
+  margin-left: 40px;
+  width:200px;
+  height:200px;
+}
+
+
+.wbbg{
+  background-color: #818380;
+  color: white;
+  border-radius: 50px;
+  margin: 0px auto 50px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:290px;
+}
+
+
+.toa{
+  background-color: #818380;
+  color: white;
+  border-radius: 50px;
+  margin: 50px auto 50px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:200px;
+}
+
+
+.arabtec{
+  background-color: #818380;
+  color: white;
+  border-radius: 50px;
+  margin: 50px auto 50px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:220px;
+}
+
+.ecolog{
+  background-color:grey;   /*#48494B*/
+  color: white;
+  border-radius: 50px;
+  margin: 50px auto 50px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:200px;
+}
+
+.iccc{
+  background-color: grey;
+  color: white;
+  border-radius: 50px;
+  margin: 50px auto 50px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:350px;
+}
+
+.hlg{
+  background-color: grey;
+  color: white;
+  border-radius: 50px;
+  margin: 50px auto 50px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:200px;
+}
+
+.ucpb{
+  background-color: grey;
+  color: white;
+  border-radius: 50px;
+  margin: 50px auto 50px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:200px;
+}
+
+.camella{
+  background-color: grey;
+  color: white;
+  border-radius: 50px;
+  margin: 50px auto 50px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:200px;
+}
+
+.qsts{
+  background-color: grey;
+  color: white;
+  border-radius: 50px;
+  margin: 50px auto 50px auto;
+  width: 90%;
+  padding-top:15px;
+  padding-right:15px;
+  padding-left:15px;
+  padding-bottom:325px;
+  position: relative;
+}
+
+.exp{
+  float: left;
+  margin-top:10px;
+  margin-left: 40px;
+}
+
+.resp{
+  text-align: left;
+  margin-left: 250px;
+}
+
+.expW{
+  float: left;
+  position: absolute;
+  margin-top:140px;
+  margin-left: 40px;
+}
+
+.expT{
+  float: left;
+  position: absolute;
+  margin-top:50px;
+  margin-left: 40px;
+}
+
+.expA{
+  float: left;
+  position: absolute;
+  margin-top:80px;
+  margin-left: 40px;
+}
+
+.expE{
+  float: left;
+  position: absolute;
+  margin-top:50px;
+  margin-left: 40px;
+}
+
+.expI{
+  float: left;
+  position: absolute;
+  margin-top:190px;
+  margin-left: 40px;
+}
+
+.expH{
+  float: left;
+  position: absolute;
+  margin-top:50px;
+  margin-left: 40px;
+}
+
+.expU{
+  float: left;
+  position: absolute;
+  margin-top:50px;
+  margin-left: 40px;
+}
+
+
+.expQ{
+  float: left;
+  position: absolute;
+  top:250px;
+  left:51px;
+}
+
+.b{
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: 18px;
+}
+
+.contact-me{
+    /* background-color: #818380; */
+    /* color: #00303F; */
+    margin-top: 50px;
+}
+
+.linkedin{
+  display: block;
+  margin: 20px auto 0px auto;
+}
+
+.website{
+  display: block;
+  margin: 0px auto 0px auto;
+}
+.mobile{
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+
+.email{
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+
+.rights{
+  line-height: 1.2;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/*--------------------------- DOWNLOAD BUTTON--------------------*/
+
+
+#tabs{
+  text-align:center;
+}
+
+.projects {
+  background: #3498db;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  display: inline-block;
+  width: 150px;
+  position:relative;
+  right: 50px;
+}
+.projects:hover{
+  background: #3cb0fd;
+}
+
+.trainings{
+  background: #3498db;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  display: inline-block;
+  width: 150px;
+}
+.trainings:hover{
+  background: #3cb0fd;
+}
+
+.others{
+  background: #3498db;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+  display: inline-block;
+  width: 150px;
+  position:relative;
+  left: 50px;
+}
+.others:hover{
+  background: #3cb0fd;
+}
+
+
+.down_load{
+  margin-top: 50px;
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.down_load:hover{
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+
+
+
+/* Padre Pio */
+.f-forgione{
+  color: #FCF4A3;
+  padding-bottom: 5px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/*--------------------------- DOWNLOAD BUTTON--------------------*/
+
+.personnal{
+  color: white;
+  text-align: left;
+  padding-left: 40px;
+}
+
+.coach-skate-prog{
+  color: #FCF4A3;
+}
+
+
+/*--------------------------- PROJECT LIST--------------------*/
+
+.projectList{
+  color: white;
+  text-align: left;
+  padding-left: 40px;
+}
+
+/*--------------------------- INDEPENDENT COURSEWORK--------------------*/
+.trainingList{
+  color: white;
+  text-align: left;
+  padding-left: 40px;
+}
+
+/*------------------------------HOMEPAGE-----------------------------------*/
+
+.button_homepage{
+  line-height: 1.5;
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.button_homepage:hover{
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.hpage_name {
+  color: white;
+  width: 300px;
+  border-radius: 25px;
+  font-family: sans-serif;
+  }
+
+.click {
+    color: white;
+    width: 450px;
+    }
